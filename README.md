@@ -10,6 +10,8 @@ Sample website with plenty of files for demos
 This is a simple web project for
 showing git and github together 
 #### Deployment
+this example is to show differnt parts of git repository
+and various commands using git repository
 
 
 ##### How To Contribute
