@@ -1,3 +1,2 @@
 this is an example file for reset and restore,revert 
-ugkknknbjbk,
-ijigghjjjjj
+ugkknknbjbk
