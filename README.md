@@ -14,8 +14,6 @@ showing git and github together
 this example is to show differnt parts of git repository
 and various commands using git repository
 this is simply a web project
-#####Copyright
-  copyright 2021 Git Training
 
 
 ##### How To Contribute
